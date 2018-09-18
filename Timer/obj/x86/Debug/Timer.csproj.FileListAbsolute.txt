@@ -1,0 +1,76 @@
+E:\程序\Timer\Timer\bin\Debug\Timer.exe
+E:\程序\Timer\Timer\bin\Debug\Timer.pdb
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.csproj.GenerateResource.Cache
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.exe
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.pdb
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.Main.resources
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+E:\程序\Timer\Timer\bin\Debug\Timer.exe.config
+E:\程序\Timer\Timer\obj\x86\Debug\Timer.csprojResolveAssemblyReference.cache
+F:\Timer\Timer\bin\Debug\Timer.exe.config
+F:\Timer\Timer\obj\x86\Debug\Timer.exe
+F:\Timer\Timer\obj\x86\Debug\Timer.pdb
+F:\Timer\Timer\bin\Debug\Timer.exe
+F:\Timer\Timer\bin\Debug\Timer.pdb
+F:\Timer\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Timer\Timer\obj\x86\Debug\Timer.Main.resources
+F:\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+F:\Timer\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+F:\Timer\Timer\obj\x86\Debug\ResGen.read.1.tlog
+F:\Timer\Timer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\JYHT\Desktop\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\Timer.exe
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\Timer.pdb
+C:\Users\JYHT\Desktop\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\JYHT\Desktop\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\Timer.Main.resources
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\JYHT\Desktop\Timer\Timer\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\w7293\Desktop\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.exe
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.pdb
+C:\Users\w7293\Desktop\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\w7293\Desktop\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.HotKeySet.resources
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\w7293\Desktop\Timer\Timer\obj\x86\Debug\Timer.Main.resources
+C:\Users\JYHT\Desktop\Timer (1)\Timer\bin\Debug\Timer.exe.config
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\Timer.exe
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\Timer.pdb
+C:\Users\JYHT\Desktop\Timer (1)\Timer\bin\Debug\Timer.exe
+C:\Users\JYHT\Desktop\Timer (1)\Timer\bin\Debug\Timer.pdb
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\Timer.HotKeySet.resources
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\Timer.Main.resources
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\JYHT\Desktop\Timer (1)\Timer\obj\x86\Debug\ResGen.write.1.tlog
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\bin\Debug\Timer.exe.config
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\Timer.exe
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\Timer.pdb
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\Timer.HotKeySet.resources
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\Timer.Main.resources
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\ResGen.read.1.tlog
+H:\新建文件夹 (2)\新建文件夹\Timer (1)\Timer\obj\x86\Debug\ResGen.write.1.tlog
+H:\Timer\Timer\bin\Debug\Timer.exe.config
+H:\Timer\Timer\obj\x86\Debug\Timer.exe
+H:\Timer\Timer\obj\x86\Debug\Timer.pdb
+H:\Timer\Timer\bin\Debug\Timer.exe
+H:\Timer\Timer\bin\Debug\Timer.pdb
+H:\Timer\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Timer\Timer\obj\x86\Debug\Timer.HotKeySet.resources
+H:\Timer\Timer\obj\x86\Debug\Timer.Main.resources
+H:\Timer\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+H:\Timer\Timer\obj\x86\Debug\Timer.ShowLoad.resources
+H:\Timer\Timer\obj\x86\Debug\ResGen.read.1.tlog
+H:\Timer\Timer\obj\x86\Debug\ResGen.write.1.tlog
